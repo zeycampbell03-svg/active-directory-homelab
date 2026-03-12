@@ -28,14 +28,14 @@ A Windows Server 2022 machine was configured as a Domain Controller and a Window
 active-directory-homelab
 │
 ├── README.md
-├── lab-documentation.md
+├── Active_Directory_Documentation.pdf
 └── ActiveDirectoryScreenshots.pdf
 ```
 
 ## Documentation
 The complete lab write-up and configuration steps can be found in:
 
-`lab-documentation.md`
+`Active_Directory_Documentation.pdf`
 
 ## Screenshots
 Screenshots demonstrating the Active Directory configuration, Group Policy setup, and shared network drives are included in:
